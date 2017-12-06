@@ -44,7 +44,7 @@ Just use
 ## Group members
 
 * **Estevam F. Arantes** - *9763105* - [Es7evam](https://github.com/Es7evam)
-* **Henrique Andrews P.Marques** - *9771463* - [AndrewsHPM](https://github.com/AndrewsHPM)
+* **Henrique Andrews P. Marques** - *9771463* - [AndrewsHPM](https://github.com/AndrewsHPM)
 * **Osmar Bor H. Chen** - *9288359* - [osmarchen](https://github.com/osmarchen)
 * **Willian G. Leodegario** - *9771293* - [binario01 ](https://github.com/binario01)
 
