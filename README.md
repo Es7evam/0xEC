@@ -8,7 +8,7 @@
   Make build system, localization and a other changes.
 
 ## Instructions
-  Students are required to complete the implementation of the simulator by
+  Students were required to complete the implementation of the simulator by
   editing the file code.c.
 
   In order to build the software:
