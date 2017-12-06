@@ -1,6 +1,6 @@
 # Multiclycle Mips CPU (MMCPU)
 
-  MMPCU is a very simple multicycle MIPS CPU simulator designed as programming exercise for classes on Computer Organizations. Students are required to complete the implementation with their own code.
+  MMPCU is a very simple multicycle MIPS CPU simulator designed as programming exercise for classes on Computer Organization. Students are required to complete the implementation with their own code.
 
   MMCPU is based on "CPU MIPS Multiciclo"  by [Prof. Paulo Sergio Lopes de
   Souza](http://conteudo.icmc.usp.br/pessoas/pssouza/) of [ICMC - University of Sao Paulo](http://icmc.usp.br/).  The original code by Dr. Souza
